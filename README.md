@@ -1,4 +1,4 @@
-# ConsolidationPowerBI
+# Truck shipment consolidation analysis using Power BI
 
 This repository shows an example of data analysis to solve a business problem in Logistics. 
 The data in the report is synthetic, but is based on real-life. 
