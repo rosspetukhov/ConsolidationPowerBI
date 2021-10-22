@@ -37,7 +37,7 @@ After gathering the data & building the report in Power, I presented the finding
 
 ## Results
 The senior team was happy with the analysis and the report. 
-They especially appreciated the speed of the delivery (1 days instead on 3 week deadline). 
+They especially appreciated the speed of the delivery (1 days instead of 3-week deadline). 
 The department is focusing now on key areas to minimise the cost losses in the future. 
 I'm currently supporting a prescriptive tool, that is using my logic to help the operational team to consolidate shipments to maximise truck utilisation. 
 
